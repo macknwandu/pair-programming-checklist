@@ -48,3 +48,5 @@ $ git remote -v
 - [ ] TAs leave feedback on students' Pull Requests: [https://github.com/LambdaSchool/Code-Review-Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 
 what is step 3? - Henry z
+
+I don't know what's going on - Mack N

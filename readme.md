@@ -47,4 +47,4 @@ $ git remote -v
 - [ ] Send switch reminders every 30 minutes ([on the half hour](https://en.wiktionary.org/wiki/on_the_half_hour)).
 - [ ] TAs leave feedback on students' Pull Requests: [https://github.com/LambdaSchool/Code-Review-Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 
-what is step 3? - Henry
+what is step 3? - Henry z

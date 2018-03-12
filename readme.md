@@ -46,3 +46,5 @@ $ git remote -v
 - [ ] TAs use the breakout rooms to drop in and help groups with questions.
 - [ ] Send switch reminders every 30 minutes ([on the half hour](https://en.wiktionary.org/wiki/on_the_half_hour)).
 - [ ] TAs leave feedback on students' Pull Requests: [https://github.com/LambdaSchool/Code-Review-Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
+
+what is step 3? - Henry
